@@ -16,5 +16,18 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/Libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/Libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="jl1.0.1" level="application" />
+    <orderEntry type="library" name="mp3spi1.9.5" level="application" />
+    <orderEntry type="library" name="tritonus_share" level="application" />
   </component>
 </module>
